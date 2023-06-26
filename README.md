@@ -46,5 +46,9 @@
 ## 7일차 (2023년 6월 26일)
 - 파이썬 데이터 분석
     - numpy 기본
-    - matplotlib
+    - matplotlib 기본
+
+## 8일차 (2023년 6월 27일)
+- 파이썬 데이터 분석
     - selenium
+    - beautifulSoup
